@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/ShahierNashaat/Leaderboard/issues"
   },
-  "homepage": "https://shahiernashaat.github.io/Leaderboard/",
+  "homepage": "https://shahiernashaat.github.io/Leaderboard/dist/",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.4.0",
