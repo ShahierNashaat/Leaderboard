@@ -1,59 +1,38 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Leaderboard
 
-> One paragraph statement about the project.
+> Project for displaying and inserting scores.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
-
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS, and JavaScript
+- Webpack
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://shahiernashaat.github.io/Leaderboard/dist/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- go to the directory that you want to clone the repository in.
+- right click and choose Git Bash here.
+- type "git clone https://github.com/ShahierNashaat/Leaderboard.git".
+- run "npm install" in your terminal
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Shahier Nashaat**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/ShahierNashaat)
+- Twitter: [@twitterhandle](https://twitter.com/ShahierN)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shahier-nashaat-73519313a/)
 
 ## 🤝 Contributing
 
