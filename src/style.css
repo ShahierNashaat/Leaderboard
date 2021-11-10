@@ -18,6 +18,8 @@ ul {
   list-style-type: none;
   padding-left: 0;
   border: 1px solid black;
+  max-height: 300px;
+  overflow-y: auto;
 }
 
 li {
@@ -44,7 +46,7 @@ li:nth-child(even) {
   width: 40%;
 }
 
-.submit {
+.submit-btn {
   align-self: flex-end;
 }
 
