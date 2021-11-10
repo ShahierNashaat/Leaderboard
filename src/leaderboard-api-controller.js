@@ -17,18 +17,16 @@ const createGame = () => fetch('https://us-central1-js-capstone-backend.cloudfun
 const getScores = () => fetch(`https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/${id}/scores/`)
   .then((response) => response.json());
 
-const postScore = (userData, scoreData) => {
-  fetch(`https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/${id}/scores/`, {
-    method: 'POST',
-    body: JSON.stringify({
-      user: userData,
-      score: scoreData,
-    }),
-    headers: {
-      'Content-type': 'application/json; charset=UTF-8',
-    },
-  })
-    .then((response) => response.json());
-};
+const postScore = (userData, scoreData) => fetch(`https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/${id}/scores/`, {
+  method: 'POST',
+  body: JSON.stringify({
+    user: userData,
+    score: scoreData,
+  }),
+  headers: {
+    'Content-type': 'application/json; charset=UTF-8',
+  },
+})
+  .then((response) => response.json());
 
 export default { createGame, getScores, postScore };
