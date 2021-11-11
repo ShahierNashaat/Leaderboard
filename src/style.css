@@ -99,3 +99,8 @@ button:hover {
   position: absolute;
   left: 0;
 }
+
+.refresh-scores {
+  display: flex;
+  justify-content: space-between;
+}
