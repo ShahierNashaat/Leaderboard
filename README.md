@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://shahiernashaat.github.io/Leaderboard/dist/)
+[Live Demo Link](https://shahiernashaat.github.io/Leaderboard/)
 
 
 ## Getting Started
